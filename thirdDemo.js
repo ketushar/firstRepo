@@ -7,9 +7,9 @@
 
 <button onclick="w3.hide('p')">Hide all p elements</button>
 
-<h2>London</h2>
-<p>London is the capital city of England.</p>
-<p>It is the most populous city in the United Kingdom.</p>
+<h2>DELHI</h2>
+<p>DELHI is the capital city of INDIA.</p>
+<p>It is the most populous city in the ASIA.</p>
 <p>Population over 13 million inhabitants.</p>
 
 </body>
